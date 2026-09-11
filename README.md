@@ -30,7 +30,7 @@ O custo de deslocamento, que originalmente era de **14 semitons** utilizando ape
 ## 📄 Leia o Artigo Completo
 A fundamentação teórica completa, a matriz de adjacências e a execução passo a passo do algoritmo estão documentadas no artigo.
 
-👉 **[Clique aqui para acessar o PDF do artigo completo](./docs/Acordes_MD_IlannaCardoso_.pdf)**
+👉 **[Clique aqui para acessar o PDF do artigo completo](./docs/Acordes_MD_IlannaCardoso_(1).pdf)**
 
 ---
 *Projeto desenvolvido por Ilanna dos Reis Cardoso.*

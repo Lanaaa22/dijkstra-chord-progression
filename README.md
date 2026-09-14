@@ -33,4 +33,4 @@ A fundamentação teórica completa, a matriz de adjacências e a execução pas
 👉 **[Clique aqui para acessar o PDF do artigo completo](./docs/Acordes_MD_IlannaCardoso.pdf)**
 
 ---
-*Projeto desenvolvido por Ilanna dos Reis Cardoso.*
+*Modelagem e parte da implementação Ilanna dos Reis Cardoso. Auxiliar da implementação Rafael Marques Silva*

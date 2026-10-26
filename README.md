@@ -1,8 +1,4 @@
-# 🎵 Otimização de Progressões de Acordes Musicais com Teoria dos Grafos
-
-![Status](https://img.shields.io/badge/Status-Finalizado-success)
-![Linguagem](https://img.shields.io/badge/Linguagem-Python-blue)
-![Matemática](https://img.shields.io/badge/Matemática-Teoria_dos_Grafos-orange)
+# Otimização de Progressões de Acordes Musicais com Teoria dos Grafos
 
 Este projeto une fundamentos de Ciência da Computação e Teoria Musical para resolver um problema clássico de harmonia: a otimização do deslocamento físico das mãos ao tocar um instrumento. Desenvolvido originalmente como uma pesquisa de matemática discreta no Instituto Federal do Espírito Santo (IFES) - Campus Serra, o estudo modela acordes como grafos e aplica o **Algoritmo de Dijkstra** para encontrar o caminho de menor custo (em semitons) em uma progressão harmônica.
 
